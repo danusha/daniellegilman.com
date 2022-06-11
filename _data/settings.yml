@@ -109,21 +109,33 @@ education:
 portfolio-home-items:
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
+    title: "Example"
+    description: "A small portfolio example"
     
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
+    title: "Example"
+    description: "A small portfolio example"
     
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
+    title: "Example"
+    description: "A small portfolio example"
     
   - image : "assets/images/portfolio/item-4.png"
     url: "#"
+    title: "Example"
+    description: "A small portfolio example"
     
   - image : "assets/images/portfolio/item-5.png"
     url: "#"
+    title: "Example"
+    description: "A small portfolio example"
 
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
+    title: "Example"
+    description: "A small portfolio example"
 
 
 # Portfolio Page
