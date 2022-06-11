@@ -107,7 +107,7 @@ h6,
 }
 
 .btn-primary {
-	background: #41228e;
+	background: #212328;
 	color: white;
 }
 .btn-primary:active {
@@ -127,14 +127,14 @@ h6,
 
 .btn-transparent {
 	background: transparent;
-	color: #41228e;
+	color: #212328;
 	font-weight: bold;
 }
 .btn-transparent:hover {
-	color: #41228e;
+	color: #212328;
 }
 .btn-transparent:active {
-	color: #41228e;
+	color: #212328;
 }
 
 body {
@@ -193,11 +193,11 @@ select:focus {
 }
 
 a.text-dark:hover {
-	color: #41228e !important;
+	color: #212328 !important;
 }
 
 a:hover {
-	color: #41228e;
+	color: #212328;
 }
 
 .slick-slide {
@@ -244,7 +244,7 @@ a:hover {
 }
 
 .bg-primary {
-	background: #41228e !important;
+	background: #212328 !important;
 }
 
 .bg-gray {
@@ -252,7 +252,7 @@ a:hover {
 }
 
 .text-primary {
-	color: #41228e !important;
+	color: #212328 !important;
 }
 
 .text-color {
@@ -390,7 +390,7 @@ a:hover {
 }
 
 .form-control:focus {
-	border-color: #41228e;
+	border-color: #212328;
 	outline: 0;
 	box-shadow: none !important;
 }
@@ -418,7 +418,7 @@ textarea.form-control {
 	transition: 0.3s ease;
 }
 .navigation.nav-bg {
-	background-color: #41228e;
+	background-color: #212328;
 	padding: 15px 100px;
 }
 
@@ -431,7 +431,7 @@ textarea.form-control {
 @media (max-width: 991px) {
 	.navigation {
 		padding: 20px;
-		background: #41228e;
+		background: #212328;
 	}
 }
 
@@ -665,14 +665,14 @@ textarea.form-control {
 	transition: 0.3s ease;
 }
 .hover-bg-primary:hover {
-	background: #41228e;
+	background: #212328;
 
 	color: white;
 }
 
 .active-bg-primary {
 	transition: 0.3s ease;
-	background: #41228e;
+	background: #212328;
 	color: white;
 }
 
@@ -874,7 +874,7 @@ blockquote > p {
 	display: inline-block;
 	padding: 10px 20px;
 	background: #eaeaea;
-	border-left: 2px solid #41228e;
+	border-left: 2px solid #212328;
 	font-style: italic;
 	font-size: 22px;
 	line-height: inherit;
