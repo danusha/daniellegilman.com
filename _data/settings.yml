@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: DanielleGilman.com - Home
+title: Danielle Gilman UX Portfolio
 logo: 
 author: danusha
 description: Danielle Gilman's UX Design Portfolio
@@ -36,10 +36,11 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Danielle <br> UX Designer
-
+  hero-title: Hi, I'm Danielle Gilman <br />
+				UX Designer currently working with Nasdaq on eVestment Analytics.<br />
+				Based in Atlanta 🍑 GA
 social:
-- {icon: "ti-linkedin", link: "#"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/daniellegilman/"}
 - {icon: "ti-twitter", link: "#"}
 
 
@@ -48,7 +49,9 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <p>I'm a UX designer based in Atlanta, GA. I currently focus on web applications, but in my free time I work on video games. </p>
+				<p>I have a degree from Georgia Tech in Computational Media and have worked with digital media companies across the US.</p>
+				<p>Feel free to drop me a line if you have a project you want to discuss or even chat about your favorite video game!</p>
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -91,10 +94,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Web Design, color: '#fdb157', value: '60%'}
+- {name: Figma, color: '#9473e6', value: '90%'}
+- {name: UX Principles, color: '#bdecf6', value: '80%'}
+- {name: Gamification, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -102,9 +105,11 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: UX Designer, icon: 'icon-1.png', date: 'Jun 2021 - Current', organization: 'NASDAQ'}
+- {name: UX Designer, icon: 'icon-2.png', date: 'Jun 2016 - Jan 2020', organization: 'COPPERWIRE'}
+- {name: UX Designer, icon: 'icon-3.png', date: 'Jan 2016 - May 2016', organization: 'NUTRIO'}
+- {name: UX Designer, icon: 'icon-4.png', date: 'Apr 2010 - Jun 2010', organization: 'PINNACLEPROMOTIONS'}
+- {name: UX Intern, icon: 'icon-5.png', date: '2010', organization: 'HIREZ'}
 
 
 #-------------------------------
@@ -112,11 +117,7 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
-
+- {name: Bachelors of Science in Computational Media, date: '2010', organization: 'Georgia Institute of Technology'}
 
 #-------------------------------
 # Services Section
@@ -289,4 +290,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: danusha@gmail.com
