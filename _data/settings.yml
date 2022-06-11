@@ -72,22 +72,6 @@ work-process:
     icon : "assets/images/icons/print.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-
-# My Team Section
-team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
-    
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
-    
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
-
-
 #-------------------------------
 # Skills Section
 
@@ -119,32 +103,6 @@ education:
 - {name: Bachelors of Science in Computational Media, date: '2010', organization: 'Georgia Institute of Technology'}
 
 #-------------------------------
-# Services Section
-
-services-title: Services
-services:
-- {
-    name: UI Design,
-    icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
-- {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: true # Add true to select section
-  }
-- {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
-
-
-
-#-------------------------------
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
@@ -172,118 +130,64 @@ portfolio-label:
     type : "design"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "Gamification",
+    type : "gamification"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "Process",
+    type : "process"
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
      - type: "design"
-     - type: "illustration"
+     - type: "gamification"
       
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "process"
+      
+  - image : "assets/images/portfolio/item-2.png"
+    url: "#"
+    portfolio-type:
+      - type: "gamification"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
       - type: "design"
-      - type: "branding"
+      - type: "gamification"
       
   - image : "assets/images/portfolio/item-8.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "process"
       
   - image : "assets/images/portfolio/item-5.png"
     url: "#"
     portfolio-type:
       - type: "design"
       
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "gamification"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
       - type: "design"
-      - type: "illustration"
-      - type: "branding"
+      - type: "process"
+      - type: "gamification"
       
   - image : "assets/images/portfolio/item-7.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "process"
 
-
-#-------------------------------
-# Testimonials Section
-
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-
-#-------------------------------
-# Client Slider Section
-
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
 
 #-------------------------------
 # Contact Section
