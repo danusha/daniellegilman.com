@@ -611,16 +611,6 @@ textarea.form-control {
 	transform: translateX(-50%) rotate(0);
 	animation: rotate 6s linear infinite;
 	z-index: 10;
-
-	@keyframes rotate {
-		50% {
-			transform: translateX(-50%) rotate(180deg);
-		}
-
-		100% {
-			transform: translateX(-50%) rotate(360deg);
-		}
-	}
 }
 
 .wave::after {
@@ -640,15 +630,15 @@ textarea.form-control {
 	transform: translateX(-50%) rotate(0);
 	animation: rotate 10s linear -5s infinite;
 	z-index: 20;
+}
 
-	@keyframes rotate {
-		50% {
-			transform: translateX(-50%) rotate(180deg);
-		}
+@keyframes rotate {
+	50% {
+		transform: translateX(-50%) rotate(180deg);
+	}
 
-		100% {
-			transform: translateX(-50%) rotate(360deg);
-		}
+	100% {
+		transform: translateX(-50%) rotate(360deg);
 	}
 }
 
