@@ -1,9 +1,4 @@
 import { NodeWeb } from "./NodeWeb.js";
-
-window.addEventListener("resize", resize);
-window.addEventListener("touchmove", onTouchMove)
-window.addEventListener("mousemove", onMouseMove)
-
 document.addEventListener("DOMContentLoaded", event => {
 	var container = document.getElementById("header");
 	canvas = document.createElement("canvas")
@@ -12,6 +7,10 @@ document.addEventListener("DOMContentLoaded", event => {
 	canvas.id = "headertoy"
 	container.appendChild(canvas)
 	context = canvas.getContext('2d');
+
+	window.addEventListener("resize", resize);
+	container.addEventListener("touchmove", onTouchMove)
+	container.addEventListener("mousemove", onMouseMove)
 
 	init();
 	animate();

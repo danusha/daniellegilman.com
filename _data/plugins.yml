@@ -15,4 +15,4 @@ js:
 
 ################ JS Modules ######################
 js-module:
-  - "/assets/plugins/headertoy/toy.js"
+  # - "/assets/plugins/headertoy/toy.js"
