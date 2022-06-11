@@ -48,8 +48,8 @@ social:
 # About Section
 blurb:
   <p>I'm a UX designer based in Atlanta, GA. I currently focus on web applications, but in my free time I work on video games. </p>
-				<p>I have a degree from Georgia Tech in Computational Media and have worked with digital media companies across the US.</p>
-				<p>Feel free to drop me a line if you have a project you want to discuss or even chat about your favorite video game!</p>
+  <p>I have a degree from Georgia Tech in Computational Media and have worked with digital media companies across the US.</p>
+  <p>Feel free to drop me a line if you have a project you want to discuss or even chat about your favorite video game!</p>
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
