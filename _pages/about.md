@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
+author: Danielle Gilman
+image: assets/images/about/danielle_headshot.jpg
 signature: assets/images/about/signature.png
 ---
 

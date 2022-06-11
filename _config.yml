@@ -27,8 +27,6 @@ sass:
 
 # Exclude from processing.
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.text
+  - LICENSE.txt
   - README.md
   - SECURITY.md
