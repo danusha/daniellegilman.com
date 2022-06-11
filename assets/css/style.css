@@ -524,7 +524,7 @@ textarea.form-control {
 	z-index: 2;
 }
 
-#header {
+#header canvas {
 	width: 100%;
 	height: 100vh;
 	display: block;
