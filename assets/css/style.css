@@ -14,7 +14,7 @@ body {
 p,
 .paragraph {
 	font-weight: 400;
-	color: #4c4c4c;
+	color: white;
 	font-size: 15px;
 	line-height: 1.8;
 	font-family: "Montserrat", sans-serif;
@@ -259,7 +259,7 @@ a:hover {
 }
 
 .text-color {
-	color: #4c4c4c;
+	color: white;
 }
 
 .text-dark {
