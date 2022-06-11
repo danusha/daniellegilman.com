@@ -36,9 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi, I'm Danielle Gilman <br />
-				UX Designer currently working with Nasdaq on eVestment Analytics.<br />
-				Based in Atlanta 🍑 GA
+  hero-title: Hi, I'm Danielle Gilman <br />UX Designer currently working with Nasdaq on eVestment Analytics.<br />Based in Atlanta 🍑 GA
 social:
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/daniellegilman/"}
 - {icon: "ti-twitter", link: "#"}
