@@ -524,10 +524,13 @@ textarea.form-control {
 	z-index: 2;
 }
 
-.hero-area #header {
+#header {
 	width: 100%;
 	height: 100vh;
 	display: block;
+	position:absolute;
+	top: 0;
+	left: 0;
 }
 
 @media (max-width: 767px) {
