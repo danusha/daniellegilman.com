@@ -3,7 +3,6 @@ layout: about
 title: About Me
 author: Danielle Gilman
 image: assets/images/about/danielle_headshot.jpg
-signature: assets/images/about/signature.png
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
