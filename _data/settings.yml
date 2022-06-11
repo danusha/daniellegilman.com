@@ -91,8 +91,8 @@ experience:
 - {name: UX Designer, icon: 'icon-1.png', date: 'Jun 2021 - Current', organization: 'NASDAQ'}
 - {name: UX Designer, icon: 'icon-2.png', date: 'Jun 2016 - Jan 2020', organization: 'COPPERWIRE'}
 - {name: UX Designer, icon: 'icon-3.png', date: 'Jan 2016 - May 2016', organization: 'NUTRIO'}
-- {name: UX Designer, icon: 'icon-4.png', date: 'Apr 2010 - Jun 2010', organization: 'PINNACLEPROMOTIONS'}
-- {name: UX Intern, icon: 'icon-5.png', date: '2010', organization: 'HIREZ'}
+- {name: UX Designer, icon: 'icon-1.png', date: 'Apr 2010 - Jun 2010', organization: 'PINNACLEPROMOTIONS'}
+- {name: UX Intern, icon: 'icon-2.png', date: '2010', organization: 'HIREZ'}
 
 
 #-------------------------------
