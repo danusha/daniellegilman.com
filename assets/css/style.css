@@ -806,7 +806,10 @@ textarea.form-control {
 
 .drag-lg-top {
 	margin-top: -230px;
-	@include desktop {
+}
+
+@media (max-width: 991px) {
+	.drag-lg-top {
 		margin-top: 0;
 	}
 }
