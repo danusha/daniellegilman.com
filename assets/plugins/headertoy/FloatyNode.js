@@ -24,8 +24,8 @@ export default class FloatyNode {
 		let angle = this.angle(this.web.cursorPosition, this.initialPosition)
 		let directionToCursor = { x: Math.cos(angle), y: Math.sin(angle) }
 
-		this.offsetPosition.y = this.amplitude * Math.sin((this.web.elapsed * this.period) + (this.gridPosition.x))
-		this.offsetPosition.x = this.amplitude * Math.sin((this.web.elapsed * this.period) + (this.gridPosition.y))
+		this.offsetPosition.y = this.amplitude * Math.sin(((this.web.elapsed + this.gridPosition.x) * this.period))
+		this.offsetPosition.x = this.amplitude * Math.sin(((this.web.elapsed + this.gridPosition.y) * this.period))
 		if (distance < this.warpDistance) {
 			let magnitude = (this.warpDistance - distance) / this.warpDistance
 			this.offsetPosition.x += this.warpAmount * magnitude * directionToCursor.x

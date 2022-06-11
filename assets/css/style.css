@@ -517,11 +517,13 @@ textarea.form-control {
 .hero-area h1 {
 	position: relative;
 	z-index: 2;
+	font-weight: 800;
 }
 
 .hero-area h2 {
 	position: relative;
 	z-index: 2;
+	font-weight: 700;
 }
 
 #header canvas {
