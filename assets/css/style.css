@@ -30,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #000;
+	color: white;
 	font-family: "Montserrat", serif;
 	line-height: 1.2;
 }
@@ -208,7 +208,7 @@ a:hover {
 }
 
 .section {
-	padding-top: 80px;
+	padding-top: 0;
 	padding-bottom: 80px;
 }
 .section-title {
@@ -513,7 +513,7 @@ textarea.form-control {
 }
 
 .hero-area {
-	padding: 150px 0 150px 0;
+	padding: 150px 0 0 0;
 	position: relative;
 }
 
