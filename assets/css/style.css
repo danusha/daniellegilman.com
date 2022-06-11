@@ -1,9 +1,9 @@
 /*  typography */
-@import url("https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto:400");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat");
 
 body {
 	line-height: 1.2;
-	font-family: "Roboto", sans-serif;
+	font-family: "Montserrat", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-size: 15px;
 	color: #4c4c4c;
@@ -15,7 +15,7 @@ p,
 	color: #4c4c4c;
 	font-size: 15px;
 	line-height: 1.8;
-	font-family: "Roboto", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 
 .paragraph-lg {
@@ -29,7 +29,7 @@ h4,
 h5,
 h6 {
 	color: #000;
-	font-family: "Playfair Display", serif;
+	font-family: "Montserrat", serif;
 	line-height: 1.2;
 }
 
@@ -80,7 +80,7 @@ h6,
 /* Button style */
 .btn {
 	font-size: 22px;
-	font-family: "Playfair Display", serif;
+	font-family: "Montserrat", serif;
 	text-transform: capitalize;
 	padding: 16px 44px;
 	border-radius: 5px;
@@ -210,7 +210,7 @@ a:hover {
 }
 .section-title {
 	margin-bottom: 80px;
-	font-family: "Playfair Display", serif;
+	font-family: "Montserrat", serif;
 }
 
 .bg-cover {
@@ -320,11 +320,11 @@ a:hover {
 }
 
 .font-secondary {
-	font-family: "Playfair Display", serif !important;
+	font-family: "Montserrat", serif !important;
 }
 
 .font-tertiary {
-	font-family: "Playfair Display", serif !important;
+	font-family: "Montserrat", serif !important;
 }
 
 .shadow {
