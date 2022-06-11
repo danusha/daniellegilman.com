@@ -11,3 +11,5 @@ js:
   - "/assets/plugins/bootstrap/bootstrap.min.js"
   - "/assets/plugins/shuffle/shuffle.min.js"
   - "/assets/plugins/slick/slick.min.js"
+  - "/assets/plugins/headertoy/rAF.js"
+  - "/assets/plugins/headertoy/toy.js"
