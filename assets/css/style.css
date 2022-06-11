@@ -593,6 +593,16 @@ textarea.form-control {
 	overflow: hidden;
 }
 
+@keyframes rotate {
+	50% {
+		transform: translateX(-50%) rotate(180deg);
+	}
+
+	100% {
+		transform: translateX(-50%) rotate(360deg);
+	}
+}
+
 .wave {
 	position: absolute;
 	width: 100%;
@@ -630,16 +640,6 @@ textarea.form-control {
 	transform: translateX(-50%) rotate(0);
 	animation: rotate 10s linear -5s infinite;
 	z-index: 20;
-}
-
-@keyframes rotate {
-	50% {
-		transform: translateX(-50%) rotate(180deg);
-	}
-
-	100% {
-		transform: translateX(-50%) rotate(360deg);
-	}
 }
 
 /* /skills */
