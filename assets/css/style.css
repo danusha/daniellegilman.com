@@ -524,6 +524,12 @@ textarea.form-control {
 	z-index: 2;
 }
 
+.hero-area #header {
+	width: 100%;
+	height: 100vh;
+	display: block;
+}
+
 @media (max-width: 767px) {
 	.hero-area {
 		padding: 250px 0 150px;

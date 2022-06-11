@@ -12,4 +12,7 @@ js:
   - "/assets/plugins/shuffle/shuffle.min.js"
   - "/assets/plugins/slick/slick.min.js"
   - "/assets/plugins/headertoy/rAF.js"
+
+################ JS Modules ######################
+js-module:
   - "/assets/plugins/headertoy/toy.js"
